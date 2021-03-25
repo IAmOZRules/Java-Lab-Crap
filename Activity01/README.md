@@ -1,14 +1,14 @@
-## Getting Started
+## Practice Questions for Lab Assignment 1
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-## Dependency Management
-
-The `JAVA DEPENDENCIES` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-pack/blob/master/release-notes/v0.9.0.md#work-with-jar-files-directly).
+#### Contain the codes for following:
+1. BMI Calculatiom
+2. Duplicate Removal from array
+3. Fibonacci Sequence
+4. Identifying Identity Matrices
+5. 2 Patterns
+6. Reversing a given array
+7. Calculating the sum of each row in a given matrix
+8. Searching through a matrix
+9. Adding two matrices
+10. Transpose of a matrix
+11. One random basic OOP implementation
