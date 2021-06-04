@@ -1,0 +1,6 @@
+Registration Number: 19BCE0005
+Name: Siddharth
+CGPA: 9.81
+Favourite Food: Pizza
+Favourite Place: Someplace
+Phone Number: 1234567890
